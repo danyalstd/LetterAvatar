@@ -57,7 +57,6 @@ function createAvatar($text,$settings = array()){
     }else{
         imagefilledellipse($im,$size/2,$size/2,$size,$size,$background);
     }
-    $text = $_GET['q'];
     
     $text = explode(" ",$text);
     if(isset($settings['words'])){
