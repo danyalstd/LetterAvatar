@@ -1,0 +1,17 @@
+{
+  "name": "LetterAvatar",
+  "description": "Letter Avatar compatible with Persian language for PHP",
+  "keywords" : [
+    "avatar",
+    "persian letter avatar",
+    "letter avatar"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "danyalstd",
+      "email": "dorivex@yahoo.com",
+      "homepage": "https://github.com/danyalstd"
+    }
+  ]
+}
